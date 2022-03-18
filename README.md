@@ -10,6 +10,14 @@ Objectives: Contribute to company projects and Open Source projects by learning 
 
 Fun fact: I love playing video games and I love technology 
 
+## My Skill Set:
+
+### Backend:
+
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+
+
 <!--
 **Michel4lves/Michel4lves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
