@@ -1,4 +1,10 @@
-### Hi there I'm Mcihel Alves
+## Hi there  I'm Michel Alves
+
+I'm currently learning the Django framework
+I'm looking for a new direction in my professional career
+I hope to be able to contribute to open source or to companies
+Objectives: Contribute to company projects and Open Source projects by learning as much as I can
+Fun fact: I love playing video games and I love technology 
 
 <!--
 **Michel4lves/Michel4lves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
