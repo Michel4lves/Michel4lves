@@ -32,3 +32,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+----
+
+<br>
+
+[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=michel4lves&layout=compact)](https://github.com/michel4lves/michel4lves)
+
+<br>
+<br>
+
+----
