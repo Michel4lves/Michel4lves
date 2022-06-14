@@ -1,3 +1,45 @@
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-12">
+			<div class="row">
+				<div class="col-md-6">
+          ### OI,TUDO BEM?
+          
+          #### ME CHAMO
+          
+          # MICHEL
+          
+          ## ALVES
+        
+          
+          
+        
+        </div>
+				<div class="col-md-6">
+				
+        
+        
+        </div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Hi there  I'm Michel Alves
 
 I'm currently learning the Django framework
