@@ -1,29 +1,30 @@
-### OI,TUDO BEM?
+---
+<span style="font-size:3em;">OI, TUDO BEM?</span>
+<img align="right" src="images/perfil.jpeg" width="200">
 
-#### ME CHAMO
+<span style="font-size:2em;">ME CHAMO</span>
 
-# MICHEL
+<span style="color:yellow; font-size:6em; font-family:algerian;">MICHEL </span>
+<span style="color:yellow; font-size:5em; font-family:algerian;">ALVES</span>
 
-## ALVES
+---
+
+
+<span style="color:yellow; font-size:3em;">CONTATOS:</span>
+
+[![Facebook](https://img.shields.io/badge/facebook-005FED.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/michel.alves.39948)
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Michel4lves)
+[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:michelsantosa@gmail.com?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20GitHub)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michel-alves-892457232/)
+[![Instagram](https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m1ch3l_alv3s/)
+
+[//]: # ([![Whatsapp]&#40;https://img.shields.io/badge/-Whatsapp-4AC959?style=for-the-badge&logo=whatsapp&logoColor=white&#41;]&#40;https://wa.me/message/L6YUTOXGTADNM1&#41;)
+
 
 
 
         
 
-
-
-
-## Hi there  I'm Michel Alves
-
-I'm currently learning the Django framework
-
-I'm looking for a new direction in my professional career
-
-I hope to be able to contribute to open source or to companies
-
-Objectives: Contribute to company projects and Open Source projects by learning as much as I can
-
-Fun fact: I love playing video games and I love technology 
 
 ## My Skill Set:
 
@@ -32,9 +33,3 @@ Fun fact: I love playing video games and I love technology
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 
-<br>
-
-[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=michel4lves&layout=compact)](https://github.com/michel4lves/michel4lves)
-
-<br>
-<br>
