@@ -18,7 +18,7 @@
 
 # Contact-me:
 
-[//]: # (<span style="color:yellow; font-size:3em;">CONTATOS:</span>)
+<span style="color:yellow; font-size:3em;"></span>
 
 [![Facebook](https://img.shields.io/badge/facebook-005FED.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/michel.alves.39948)
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Michel4lves)
@@ -27,7 +27,6 @@
 [![Instagram](https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m1ch3l_alv3s/)
 
 [//]: # ([![Whatsapp]&#40;https://img.shields.io/badge/-Whatsapp-4AC959?style=for-the-badge&logo=whatsapp&logoColor=white&#41;]&#40;https://wa.me/message/L6YUTOXGTADNM1&#41;)
-
 
 
 
