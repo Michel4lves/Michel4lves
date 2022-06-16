@@ -1,9 +1,7 @@
 ---
-
-## Hi there :aceno:
-
 <img align="right" src="images/perfil.jpeg" width="200">
 
+## Hi there :aceno:
 # I´m MICHEL ALVES 
 
 ---
