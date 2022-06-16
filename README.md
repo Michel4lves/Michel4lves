@@ -1,16 +1,24 @@
 ---
-<span style="font-size:3em;">OI, TUDO BEM?</span>
+
+## Hi there :aceno:
+<span style="font-size:3em;"></span>
 <img align="right" src="images/perfil.jpeg" width="200">
 
-<span style="font-size:2em;">ME CHAMO</span>
+# I´m MICHEL ALVES 
 
-<span style="color:yellow; font-size:6em; font-family:algerian;">MICHEL </span>
-<span style="color:yellow; font-size:5em; font-family:algerian;">ALVES</span>
+<span style="font-size:2em;"></span>
+<span style="color:yellow; font-size:6em; font-family:algerian;"></span>
+<span style="color:yellow; font-size:5em; font-family:algerian;"></span>
 
 ---
 
+### This is my public repository:
 
-<span style="color:yellow; font-size:3em;">CONTATOS:</span>
+---
+
+# Contact-me:
+
+[//]: # (<span style="color:yellow; font-size:3em;">CONTATOS:</span>)
 
 [![Facebook](https://img.shields.io/badge/facebook-005FED.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/michel.alves.39948)
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Michel4lves)
