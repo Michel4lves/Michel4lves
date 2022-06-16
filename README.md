@@ -1,15 +1,11 @@
 ---
 <img align="right" src="images/perfil.jpeg" width="200">
 
-<h2> Hi there 👋 
-
-# I´m MICHEL ALVES 
+# Hi there 👋 I´m MICHEL ALVES 
 
 ---
+This is my public repository:
 
-### This is my public repository:
-
----
 
 # Contact-me:
 
