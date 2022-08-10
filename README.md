@@ -23,6 +23,12 @@ This is my public repository:
   </a>
 </div>
 
+## Contributions in the last year
+
+<hr/>
+
+![Snake animation](https://github.com/huogerac/huogerac/blob/output/github-contribution-grid-snake.svg)
+
 ## My Skill Set:
 
 ### Backend:
