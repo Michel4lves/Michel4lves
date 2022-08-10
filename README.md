@@ -16,6 +16,13 @@ This is my public repository:
 
 [//]: # ([![Whatsapp]&#40;https://img.shields.io/badge/-Whatsapp-4AC959?style=for-the-badge&logo=whatsapp&logoColor=white&#41;]&#40;https://wa.me/message/L6YUTOXGTADNM1&#41;)
 
+<div align="center">
+  <a href="https://github.com/Michel4lves">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Michel4lves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michel4lves&hide=Jupyter%20Notebook,Java,CSS,Jinja,Shell,Makefile,Mako&langs_count=5&layout=compact&theme=dracula"/>
+  </a>
+</div>
+
 ## My Skill Set:
 
 ### Backend:
