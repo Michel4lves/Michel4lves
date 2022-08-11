@@ -19,13 +19,13 @@ This is my public repository:
 ## My Skill Set:
 
 ### Frontend:
-<div align="center">
+<div align="left">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="Git" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="Git" height="50" />
 </div>  
 
 ### Backend:
-<div align="center">
+<div align="left">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
