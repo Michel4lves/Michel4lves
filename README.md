@@ -1,6 +1,4 @@
 ---
-<img align="right" src="images/perfil.jpeg" width="200">
-
 # Hi there 👋 I´m MICHEL ALVES 
 
 This is my public repository:
