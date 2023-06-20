@@ -20,7 +20,6 @@ This is my public repository:
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="html5" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="css3" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="javascript" height="50" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="react" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jquery" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="sass" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="bootstrap" height="50" />
@@ -34,10 +33,6 @@ This is my public repository:
 
 ![Snake animation](https://github.com/huogerac/huogerac/blob/output/github-contribution-grid-snake.svg)
 
-<span style="font-size:3em;"></span>
-<span style="font-size:2em;"></span>
-<span style="color:yellow; font-size:6em; font-family:algerian;"></span>
-<span style="color:yellow; font-size:5em; font-family:algerian;"></span>
-<span style="color:yellow; font-size:3em;"></span>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Michel4lves&hide_border=true&layout=compact
+
+<img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michel4lves&hide_border=true&layout=compact"/>  
