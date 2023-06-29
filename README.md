@@ -21,6 +21,7 @@ This is my public repository:
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="css3" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="javascript" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jquery" height="50" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="sass" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="bootstrap" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
